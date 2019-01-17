@@ -1,0 +1,234 @@
+body {
+	background-color: #E7ECEB;
+	margin:0 0 0 0;
+	font-family: Comic Sans MS, sans-serif; 
+}
+
+h1{
+	color: #111212;
+}
+
+/*-------ColUn-------*/
+
+.colUn {
+	width:25%;
+	float:left;
+	text-align: center;
+}
+
+.colUn h1 {
+	margin-top: 32px;
+}
+
+.colUn img {
+	width:250px;
+}
+
+/*-------ColDeux-------*/
+
+.colDeux {
+	float:right;
+	width:75%;
+	background-color: #C5C6C6;
+}
+
+.colDeux h1{
+	font-size:44px;
+}
+
+.colDeux ul{
+	list-style-type: circle;
+}
+
+.colDeux p, .colDeux h2, .colDeux h3, .colDeux h1{
+	margin-left: 20px;
+}
+
+.colDeux h2{
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+
+.colDeux li>ul>li {
+	list-style-type: none;
+}
+
+.PtColUn{
+	width:50%;
+	float: left;
+}
+
+.PtColDeux{
+	width:50%;
+	float: right;
+	margin-bottom: 100px;
+}
+
+.Photoshop, .Illustrator, .InDesign, .Premiere, .Audition, 
+.Fireworks, .HTML, .CSS, .jQuery, .Javascript, .PHP, 
+.Wordpress, .Themler, .Autodesk, .Word{
+	width:200px;
+	height:15px;
+	background:#F38840;
+	border-radius: 10px;
+	display: block;
+	position: absolute;
+	border:1px solid #989898;
+}
+
+.Photoshop1{
+	width:160px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Illustrator1{
+	width:160px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.InDesign1{
+	width:100px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Premiere1{
+	width:100px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Audition1{
+	width:130px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Fireworks1{
+	width:160px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.HTML1{
+	width:180px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.CSS1{
+	width:180px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.jQuery1{
+	width:110px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Javascript1{
+	width:140px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.PHP1{
+	width:60px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Wordpress1{
+	width:100px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Themler1{
+	width:100px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.Autodesk1{
+	width:150px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+
+.Word1{
+	width:180px;
+	height:15px;
+	background:#96E9A6;
+	border-radius: 10px;
+	display: block;
+	position: relative;
+	border:1px solid #989898;
+}
+
+.position {
+	position: relative;
+	top: -17px;
+	margin-left: 80px;
+}
